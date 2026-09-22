@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Vladyslav Bryl
 
-<!--
-**travelmate254/travelmate254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## IT Specialist | System Administrator | ERP & IT Operations
 
-Here are some ideas to get you started:
+I am an **IT Specialist** with experience in IT infrastructure, system administration, ERP systems, and technical support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+* **System Administration**
+
+  * Active Directory
+  * Group Policy (GPO)
+  * Windows Server
+  * Linux
+  * RDS
+  * VPN
+
+* **Microsoft Technologies**
+
+  * Microsoft 365
+  * Microsoft Exchange
+  * SharePoint
+  * PowerShell
+  * Microsoft Dynamics 365 Finance & Operations
+
+* **IT Operations**
+
+  * Service Desk
+  * IT infrastructure management
+  * Software and license management
+  * IT asset management
+  * User support and troubleshooting
+
+* **Development & Automation**
+
+  * PowerShell
+  * JavaScript
+  * HTML
+  * CSS
+  * React
+  * Automation of routine IT tasks
+
+### 🚀 Currently Learning
+
+* **DevOps**
+* Docker
+* Kubernetes
+* Linux administration
+* Cloud technologies
+* Business Analysis
